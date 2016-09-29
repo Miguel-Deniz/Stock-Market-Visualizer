@@ -1,0 +1,6 @@
+AAPL,Apple Inc.,111.88,113.95
+GOOG,Alphabet Inc.,775.53,781.56
+NVDA,NVIDIA Corporation,66.93,66.78
+MSFT,Microsoft Corporation,57.270,58.030
+INTC,Intel Corporation,37.30,37.44
+YHOO,Yahoo! Inc.,42.510,43.690
