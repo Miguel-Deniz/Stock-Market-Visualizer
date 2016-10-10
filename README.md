@@ -1,10 +1,12 @@
 # Stock Market Visualizer
-A personal project made to display the current stock prices. The application displays the desired stocks to track in a given time period.
+A personal project made to display the current stock prices. 
+Only those stocks the application user is interested on will be displayed. The user can custumize the colors of each stock price and select the time frame for historical data prices.
 
 <h2>Features</h2>
-- Custom user profiles.
+- Custom user profiles
 - Track virtutally any stock's historical price
 - Choose the time frame to display
+- Customize stock colors
 
 <h3>Screen Shot</h3>
 ![Stock-Market-Visualizer](StockMarketPicture.jpg)
