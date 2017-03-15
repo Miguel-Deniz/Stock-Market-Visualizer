@@ -10,6 +10,7 @@ Only those stocks the application user is interested on will be displayed. The u
 
 <h3>Screen Shot</h3>
 ![Stock-Market-Visualizer](StockMarketPicture.jpg)
+![StockMarketPicture](StockMarketPicture.png)
 
 <h2>Tools</h2>
 - FLTK Graphics Library
