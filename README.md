@@ -9,8 +9,9 @@ Only those stocks the application user is interested on will be displayed. The u
 - Customize stock colors
 
 <h3>Screen Shot</h3>
-![Stock-Market-Visualizer](StockMarketPicture.jpg)
-![StockMarketPicture](StockMarketPicture.jpg)
+<p align="center">
+  <img src="StockMarketPicture.jpg"/>
+</p>
 
 <h2>Tools</h2>
 - FLTK Graphics Library
